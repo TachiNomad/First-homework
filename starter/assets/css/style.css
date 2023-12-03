@@ -59,6 +59,19 @@ p {
     background-position: center;
 }
 
+.navi {
+    float: right;
+    margin-right: 25px;
+    font-size: 20px;
+    font-weight: 450;
+    margin-block: 20px;
+}
+
+
+
+
+
+
 .float-left {
     float: left;
     margin-right: 25px;
